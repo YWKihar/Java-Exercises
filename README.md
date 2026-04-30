@@ -1,32 +1,30 @@
 # Java Programming Exercises Collection 🚀
 
-A comprehensive collection of Java projects and exercises ranging from foundational logic problems to structured management systems. This repository serves as a portfolio of my progress in mastering Java and Object-Oriented Programming.
+A comprehensive portfolio of Java applications and logical exercises. This repository showcases my transition from foundational programming concepts to structured, Object-Oriented system design.
 
-## 📁 Project Catalog
+## 📂 Project Catalog
 
 | Project Name | Description |
 | :--- | :--- |
-| **EELU Course System** | A management system for students and courses (Best Project). |
-| **Average Students Degrees** | A utility to calculate and process academic grade averages. |
-| **BMI Evaluator** | A health-focused tool to calculate Body Mass Index and health status. |
-| **Triangle Validator** | Logic-based program to verify triangle properties and types. |
-| **Rectangle Area Calc** | A simple geometry tool for calculating area based on user input. |
-| **Greatest Number Finder** | A comparison tool to identify the maximum value among inputs. |
-| **Score Evaluator** | A grading tool that maps numerical scores to academic evaluations. |
-| **Vowel Letter Check** | A character-processing utility to identify vowels vs. consonants. |
-| **Codeforces Solutions** | Solutions to competitive programming problems (e.g., Integer Problem). |
+| **EELU Course System** | A comprehensive academic management system (Star Project). |
+| **Average Degrees Calc** | Logic for processing and averaging student grade data. |
+| **BMI Evaluator** | Health-focused tool for body mass index classification. |
+| **Triangle Validator** | Geometric logic for verifying and classifying triangles. |
+| **Rectangle Area** | Mathematical utility for area calculations. |
+| **Score Evaluator** | Grading system that maps scores to academic performance. |
+| **Greatest Number Finder** | Comparison algorithms to identify maximum values. |
+| **Vowel Letter Check** | String analysis tool for character classification. |
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 * **Language**: Java
-* **Build Tools**: Maven, Ant
-* **IDE Support**: NetBeans, IntelliJ IDEA
-* **Version Control**: Git
+* **IDE**: NetBeans (fully configured with `nbproject` settings)
+* **Build Systems**: Ant & Maven[cite: 1]
+* **Environment**: Fedora Linux[cite: 1]
 
-## ⚙️ Setup & Execution
-Each project is contained within its own directory. To run any exercise:
-1. Navigate to the specific project folder.
-2. Ensure you have **JDK 8+** installed.
-3. Compile and run the main `.java` file or import the folder into your IDE.
+## ⚙️ How to Use
+1. Clone the repository: `git clone https://github.com/YWKIhar/Java-Exercises.git`
+2. Open any specific project folder in your IDE (NetBeans recommended).
+3. Compile and run the main `.java` file located in the `src/` directory of each project[cite: 1].
 
 ---
-*Developed as part of my professional journey in DevOps and Software Engineering.*
+*Maintained by Yousef — Focused on DevOps and Software Engineering excellence.*
